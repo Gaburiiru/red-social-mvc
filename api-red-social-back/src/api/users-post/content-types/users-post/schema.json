@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "users_posts",
+  "info": {
+    "singularName": "users-post",
+    "pluralName": "users-posts",
+    "displayName": "usersPost"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "user": {
+      "type": "json"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "Login": {
+    "form": {
+      "nameUser": "Ingrese su nombre.",
+      "passUser": "Ingrese su contraseña."
+    },
+    "buttons": {
+      "submit": "Ingresar",
+      "cancel": "Cancelar"
+    },
+    "validation": {
+      "requerid": "Este campo es requerido.",
+      "minAndMax": "Ingrese entre 3 a 10 caracteres."
+    },
+    "alert": {
+      "error": "Error al completar los datos.",
+      "errorUser": "El nombre o la contraseña son incorrectos.",
+      "errorRegister": "El nombre de usuario ya existe."
+    }
+  },
+  "Public": {
+    "title": "Crear publicacion",
+    "inputName": "Ingrese el nombre de la publicacion",
+    "inputArea": "Ingrese informacion adicional a la publicacion",
+    "inputFile": "Seleccione la imagen para la publicacion",
+    "validation": {
+      "requerid": "Este campo es requerido.",
+      "minAndMax": "Ingrese entre 5 a 100 caracteres.",
+      "minAndMaxArea": "Ingrese entre 5 a 300 caracteres."
+    },
+    "buttons": {
+      "submit": "Subir"
+    },
+    "snackbar": {
+      "add": "Publicacion subida exitosamente",
+      "error": "Debe añadir una imagen mas ligera"
+    }
+  },
+  "Profile": {
+    "title": "Publicaciones",
+    "titleEdit": "Editar publicacion",
+    "titleDelete": "Eliminar publicacion",
+    "follower": "Seguidores",
+    "following": "Seguidos",
+    "follow": "Seguir",
+    "notFollow":"Dejar de seguir",
+    "buttons": {
+      "edit": "Editar",
+      "delete": "Eliminar"
+    },
+    "snackbar": {
+      "edit": "Publicacion editada exitosamente",
+      "delete": "Publicacion eliminada exitosamente"
+    }
+  },
+  "Search": {
+    "title":"Búsqueda"
+  }
+}

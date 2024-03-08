@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "coments",
+  "info": {
+    "singularName": "coment",
+    "pluralName": "coments",
+    "displayName": "coment",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "coment": {
+      "type": "json"
+    }
+  }
+}
